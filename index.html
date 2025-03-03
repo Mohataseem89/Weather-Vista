@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<!-- Mohataseem Khan -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WeatherVista - Live Weather Updates</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>WeatherVista</h1>
+    </header>
+
+    <main class="container">
+       
+        <section class="weather-input">
+            <h3>Enter a City Name</h3>
+            <input class="city-input" type="text" placeholder="E.g., Mumbai, Tokyo, New York" aria-label="City Name">
+            <button class="search-btn">Search</button>
+            <div class="separator"></div>
+            <button class="location-btn">Use Current Location</button>
+        </section>
+
+       
+        <section class="weather-data">
+
+            <article class="current-weather">
+                <div class="details">
+                    <h2 class="city-name">--: --</h2>
+                    <h6>Temperature: <span class="temp">--</span>°C</h6>
+                    <h6>Wind: <span class="wind">--</span> m/s</h6>
+                    <h6>Humidity: <span class="humidity">--</span>%</h6>
+                </div>
+            </article>
+
+            
+            <section class="days-forecast">
+                <h2>5-Day Forecast</h2>
+                <ul class="weather-cards">
+                   
+                </ul>
+            </section>
+        </section>
+    </main>
+</body>
+</html>
