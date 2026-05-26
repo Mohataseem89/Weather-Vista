@@ -1,30 +1,26 @@
 # WEATHER-VISTA
-This Weather-site is a sleek weather app built with HTML, CSS, and JavaScript. It offers real-time updates, a responsive design, and an intuitive interface. Check conditions, temperature, and forecasts anywhere, anytime, with style and ease.
 
+WeatherVista is a sleek and responsive weather web app built with HTML, CSS, and JavaScript. It provides real-time weather updates for any location, showing details like temperature, humidity, wind speed, and weather conditions.
 
+## Features
 
-WeatherVista - Your Real-Time Weather Companion
+- Live weather data using API integration
+- Search by city to fetch current weather details
+- Dynamic backgrounds based on weather conditions
+- Clean and modern UI with smooth animations
+- Responsive design for mobile, tablet, and desktop
 
-WeatherVista is a sleek and responsive weather web app built using HTML, CSS, and JavaScript. It provides real-time weather updates for any location, displaying key details like temperature, humidity, wind speed, and weather conditions.
+## Live Demo
 
-Features:
- Live Weather Data – Get real-time weather updates using API integration.
- Search by City – Enter any location to fetch current weather details.
- Dynamic Backgrounds – Weather backgrounds change based on conditions.
- User-Friendly UI – Clean and modern design with smooth animations.
- Responsive Design – Works on all screen sizes, from mobile to desktop.
+Visit the project here: [WeatherVista](https://mohataseem89.github.io/Weather-Vista/)
 
-Do visit:-https://mohataseem89.github.io/Weather-Vista/
-###  Home Page
+## Screenshots
 
+### Home Page
 ![Home Page](./assets/home.png)
 
-###  Mumbai weather
+### Mumbai Weather
+![Mumbai Weather](./assets/mumbai.png)
 
-![mumbai weather](./assets/mumbai.png)
-
-###  5 days forecast
-
-![5dayforecast](./assets/5dayforecast.png)
-
----
+### 5-Day Forecast
+![5-Day Forecast](./assets/5dayforecast.png)
