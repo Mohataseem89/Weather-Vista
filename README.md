@@ -8,23 +8,23 @@ WeatherVista - Your Real-Time Weather Companion
 WeatherVista is a sleek and responsive weather web app built using HTML, CSS, and JavaScript. It provides real-time weather updates for any location, displaying key details like temperature, humidity, wind speed, and weather conditions.
 
 Features:
-✅ Live Weather Data – Get real-time weather updates using API integration.
-✅ Search by City – Enter any location to fetch current weather details.
-✅ Dynamic Backgrounds – Weather backgrounds change based on conditions.
-✅ User-Friendly UI – Clean and modern design with smooth animations.
-✅ Responsive Design – Works on all screen sizes, from mobile to desktop.
+ Live Weather Data – Get real-time weather updates using API integration.
+ Search by City – Enter any location to fetch current weather details.
+ Dynamic Backgrounds – Weather backgrounds change based on conditions.
+ User-Friendly UI – Clean and modern design with smooth animations.
+ Responsive Design – Works on all screen sizes, from mobile to desktop.
 
 Do visit:-https://mohataseem89.github.io/Weather-Vista/
 ###  Home Page
 
 ![Home Page](./assets/home.png)
 
-###  Restaurant Listing
+###  Mumbai weather
 
-![Restaurant Listing](./assets/restaurants.png)
+![Restaurant Listing](./assets/mumbai.png)
 
-###  Grocery Store
+###  5 days forecast
 
-![Grocery Store](./assets/grocery.png)
+![Grocery Store](./assets/5dayforecast.png)
 
 ---
