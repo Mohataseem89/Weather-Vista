@@ -21,10 +21,10 @@ Do visit:-https://mohataseem89.github.io/Weather-Vista/
 
 ###  Mumbai weather
 
-![Restaurant Listing](./assets/mumbai.png)
+![mumbai weather](./assets/mumbai.png)
 
 ###  5 days forecast
 
-![Grocery Store](./assets/5dayforecast.png)
+![5dayforecast](./assets/5dayforecast.png)
 
 ---
