@@ -15,3 +15,16 @@ Features:
 ✅ Responsive Design – Works on all screen sizes, from mobile to desktop.
 
 Do visit:-https://mohataseem89.github.io/Weather-Vista/
+###  Home Page
+
+![Home Page](./assets/home.png)
+
+###  Restaurant Listing
+
+![Restaurant Listing](./assets/restaurants.png)
+
+###  Grocery Store
+
+![Grocery Store](./assets/grocery.png)
+
+---
