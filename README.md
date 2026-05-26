@@ -24,3 +24,12 @@ Visit the project here: [WeatherVista](https://mohataseem89.github.io/Weather-Vi
 
 ### 5-Day Forecast
 ![5-Day Forecast](./assets/5dayforecast.png)
+
+---
+
+##  Author
+
+**Mohataseem Khan**
+ Connect with me: [LinkedIn](https://www.linkedin.com/in/mohataseem-khan/) • [GitHub](https://github.com/Mohataseem89)
+
+---
